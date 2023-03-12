@@ -1,3 +1,3 @@
 # stats220
 
-* hello
+hello, this is my repo for STATS 220.
